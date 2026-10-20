@@ -22,10 +22,10 @@ O **SQLBolt** é um site gratuito, em inglês, com lições curtas e exercícios
 | 03 | Queries with constraints (Pt. 2) | `LIKE`, `IN`, texto | ✅ |
 | 04 | Filtering and sorting query results | `DISTINCT`, `ORDER BY`, `LIMIT`, `OFFSET` | ✅ |
 | 05 | Simple SELECT queries (Review) | Revisão das lições 1 a 4 | ✅ |
-| 06 | Multi-table queries with JOINs | `INNER JOIN` | 🟧 |
-| 07 | OUTER JOINs | `LEFT`, `RIGHT` e `FULL JOIN` | 🔄 |
-| 08 | A short note on NULLs | `IS NULL`, `IS NOT NULL` | 🔄 |
-| 09 | Queries with expressions | Expressões, `AS` (aliases) | 🔄 |
+| 06 | Multi-table queries with JOINs | `INNER JOIN` | ✅ |
+| 07 | OUTER JOINs | `LEFT`, `RIGHT` e `FULL JOIN` | ✅ |
+| 08 | A short note on NULLs | `IS NULL`, `IS NOT NULL` | ✅ |
+| 09 | Queries with expressions | Expressões, `AS` (aliases) | 🟧 |
 | 10 | Queries with aggregates (Pt. 1) | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` | 🔄 |
 | 11 | Queries with aggregates (Pt. 2) | `GROUP BY`, `HAVING` | 🔄 |
 | 12 | Order of execution of a query | Ordem lógica de execução | 🔄 |
