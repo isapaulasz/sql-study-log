@@ -28,7 +28,7 @@ O **SQL Study Log** é o meu caderno digital de SQL. Aqui eu documento minha jor
 |-------|------|-------|--------|
 | [SQLBolt](https://sqlbolt.com) | Lições e exercícios interativos | [`sqlbolt/`](./sqlbolt) | 🟡 Em andamento |
 | [LeetCode](https://leetcode.com/problemset/database/) | Desafios de banco de dados | [`leetcode/`](./leetcode) | 🟡 Em andamento |
-| [SQL Essencial](https://aulas.educadados.com.br/cursos/sql-essencial) (EducaDados) | Curso em vídeo | [`sql-essencial-educadados/`](./sql-essencial-educadados) | 🟡 Em andamento |
+| [Educadados](https://aulas.educadados.com.br/cursos) | Curso em vídeo | [`educadados/`](./educadados) | 🟡 Em andamento |
 
 > 🚧 O repositório vai crescer conforme eu avanço: novos cursos e plataformas entram na lista com o tempo.
 
@@ -56,9 +56,9 @@ O [**LeetCode**](https://leetcode.com) é uma das plataformas mais conhecidas pa
 
 📂 **Na pasta:** uma solução por arquivo `.sql`, nomeada com o número e o título do problema (ex.: `175-combine-two-tables.sql`).
 
-### 📚 SQL Essencial (EducaDados)
+### 📚 EducaDados
 
-O curso **SQL Essencial**, da plataforma **EducaDados**, é a base teórica e prática da minha jornada, cobrindo os conceitos fundamentais da linguagem.
+A plataforma **EducaDados**, é a base teórica e prática da minha jornada, cobrindo os conceitos fundamentais da linguagem nos cursos **SQL Essencial** e **SQL Profissional**.
 
 📂 **Na pasta:** anotações por módulo/aula e os exercícios feitos durante o curso.
 
@@ -70,7 +70,7 @@ O curso **SQL Essencial**, da plataforma **EducaDados**, é a base teórica e pr
 sql-study-log/
 ├── 📁 sqlbolt/
 ├── 📁 leetcode/
-├── 📁 sql-essencial-educadados/
+├── 📁 educadados/
 └── 📄 README.md
 ```
 ---
