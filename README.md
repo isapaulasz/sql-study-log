@@ -26,6 +26,7 @@ O **SQL Study Log** é o meu caderno digital de SQL. Aqui eu documento minha jor
 
 | Fonte | Tipo | Pasta | Status |
 |-------|------|-------|--------|
+| [Udemy](https://www.udemy.com/) | Curso em vídeo | [`udemy/`](./udemy) | 🟢 Finalizado |
 | [SQLBolt](https://sqlbolt.com) | Lições e exercícios interativos | [`sqlbolt/`](./sqlbolt) | 🟡 Em andamento |
 | [LeetCode](https://leetcode.com/problemset/database/) | Desafios de banco de dados | [`leetcode/`](./leetcode) | 🟡 Em andamento |
 | [Educadados](https://aulas.educadados.com.br/cursos) | Curso em vídeo | [`educadados/`](./educadados) | 🟡 Em andamento |
@@ -35,6 +36,18 @@ O **SQL Study Log** é o meu caderno digital de SQL. Aqui eu documento minha jor
 ---
 
 ## 🎓 Plataformas de estudo
+
+### 🧑‍🏫 Udemy
+
+A [**Udemy**](https://www.udemy.com) é uma plataforma de cursos online com videoaulas sobre diversos temas, ideal para aprender no seu ritmo e rever o conteúdo quando precisar.
+
+📚 **Cursos:**
+
+- *SQL para Análise de Dados: Do básico ao avançado*: ensina a escrever queries em SQL para consultar dados de bancos de dados.
+- *Banco de Dados: Da modelagem à SQL com PostgreSQL*: ensina a criar e trabalhar com bancos de dados relacionais.
+
+
+📂 **Na pasta:** anotações de cada aula e os comandos e exercícios praticados durante o curso.
 
 ### 🔖 SQLBolt
 
@@ -68,6 +81,7 @@ A plataforma **EducaDados**, é a base teórica e prática da minha jornada, cob
 
 ```
 sql-study-log/
+├── 📁 udemy/
 ├── 📁 sqlbolt/
 ├── 📁 leetcode/
 ├── 📁 educadados/
